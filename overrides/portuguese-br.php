@@ -1671,16 +1671,16 @@ $_LANG['sslconfssl'] = "Configurar SSL";
 $_LANG['sslnoconfigurationpossible'] = "Configuration has already been completed!  Please contact support if you are experiencing issues.";
 
 $_LANG['adminloggedin'] = "Você esta logado como admin.";
-$_LANG['returntoadminarea'] = "Logout & return to Admin Area";
+$_LANG['returntoadminarea'] = "Sair e voltar à área de administração";
 $_LANG['adminmasqueradingasclient'] = "You are currently masquerading as a client.";
-$_LANG['logoutandreturntoadminarea'] = "Logout & return to Admin Area";
+$_LANG['logoutandreturntoadminarea'] = "Sair e voltar à área de administração";
 
 $_LANG['supportAndUpdatesExpired'] = "Suportes e Atualizações expiraram.";
 $_LANG['supportAndUpdatesExpiredLicense'] = "Your Support & Updates period for this license has expired";
 $_LANG['supportAndUpdatesRenewalRequired'] = "Support & Updates access needs to be renewed before you can access this download.";
 $_LANG['supportAndUpdatesClickHereToRenew'] = "Click Here to Renew";
 
-$_LANG['pwresetemailneeded'] = "Forgotten your password? Enter your email address below to begin the reset process.";
+$_LANG['pwresetemailneeded'] = "Esqueceu sua senha? Digite seu email abaixo para iniciar o processo de reinicialização.";
 
 $_LANG['quotestageexpired'] = "Expirado";
 
