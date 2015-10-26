@@ -1700,7 +1700,7 @@ $_LANG['domainsExpiringInMoreThan180Days'] = "Expirando em 180+ Dias";
 
 $_LANG['kbtagcloud'] = "Tag Cloud";
 
-$_LANG['cancellationrequestedexplanation'] = "There is an outstanding cancellation request for this product/service";
+$_LANG['cancellationrequestedexplanation'] = "Há um pedido de cancelamento pendente para este produto / serviço";
 $_LANG['cancellationrequested'] = "Cancelamento Solicitado";
 
 $_LANG['yourrecenttickets'] = "Seus chamados recentes";
