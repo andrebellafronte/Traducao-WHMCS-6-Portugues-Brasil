@@ -1041,26 +1041,26 @@ $_LANG['quotedeposit'] = "Depósito";
 $_LANG['quotefinalpayment'] = "Saldo de Depósito";
 
 $_LANG['invoiceoneoffpayment'] = "Fazer um pagamento Off";
-$_LANG['invoicesubscriptionpayment'] = "Criar Assinatura Recorrente Automatizada";
+$_LANG['invoicesubscriptionpayment'] = "Criar Assinatura Recorrente";
 
 $_LANG['invoicepaymentpendingreview'] = "Obrigado! Seu pagamento foi bem sucedido e será aplicada a sua fatura assim que o processo de pagamento for revisto. <br/> <br/> Isso pode levar algumas horas.";
 
 $_LANG['step'] = "Passo %s";
-$_LANG['cartdomainexists'] = "Este domínio já existe no nosso banco de dados, por isso não é possível o registro dele novamente";
+$_LANG['cartdomainexists'] = "Este domínio já existe, por isso não é possível o registro dele novamente";
 $_LANG['cartcongratsdomainavailable'] = "Parabéns, %s está disponível!";
 $_LANG['cartregisterhowlong'] = "Por quanto tempo deseja registrar este domínio?";
 $_LANG['cartdomaintaken'] = "Desculpe, %s já está registrado";
 $_LANG['carttransfernotregistered'] = "%s não parece ser registrado ainda";
 $_LANG['carttransferpossible'] = "Parabéns, podemos transferir %s para nós por apenas %s";
-$_LANG['cartotherdomainsuggestions'] = "Outros domínios que podem te interessar...";
+$_LANG['cartotherdomainsuggestions'] = "Outros domínios que podem interessar...";
 $_LANG['cartdomainsconfiginfo'] = "As seguintes opções e configurações estão disponíveis para os domínios que você escolheu. Os campos obrigatórios são indicados com um *.";
 $_LANG['cartnameserverchoice'] = "Escolher Nameserver - DNS";
 $_LANG['cartnameserverchoicedefault'] = "Utilizar nameservers (DNS) padrão";
 $_LANG['cartnameserverchoicecustom'] = "Utilizar nameservers (DNS) personalizados";
 $_LANG['cartfollowingaddonsavailable'] = "Os adicionais seguintes estão disponíveis para seus produtos/serviços ativos.";
-$_LANG['cartregisterdomainchoice'] = "Registrar um novo domínio";
-$_LANG['carttransferdomainchoice'] = "Transferir domínio para %s";
-$_LANG['cartexistingdomainchoice'] = "Vou usar o meu domínio já existente e atualizar os namerservers - DNS";
+$_LANG['cartregisterdomainchoice'] = "Eu quero REGISTRAR um novo domínio";
+$_LANG['carttransferdomainchoice'] = "Eu quero TRANSFERIR domínio para %s";
+$_LANG['cartexistingdomainchoice'] = "Quero usar o meu domínio já existente";
 $_LANG['cartsubdomainchoice'] = "Use um subdomínio da %s";
 $_LANG['carterrordomainconfigskipped'] = "Você deve voltar e preencher os campos necessários de configuração do domínio acima";
 $_LANG['cartproductchooseoptions'] = " Opções";
